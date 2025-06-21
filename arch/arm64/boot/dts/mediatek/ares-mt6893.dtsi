@@ -731,3 +731,5 @@ this file is only for attribution of ares
 		};
 	};
 };
+
+#include "mediatek/ares/cust.dtsi"
